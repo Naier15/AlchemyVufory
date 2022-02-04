@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Dirty3" size="524.000000 524.000000" />
+    <ImageTarget name="Dirty2" size="524.000000 524.000000" />
+    <ImageTarget name="Water" size="524.000000 524.000000" />
+    <ImageTarget name="Dirty" size="524.000000 524.000000" />
+    <ImageTarget name="Air" size="524.000000 524.000000" />
+    <ImageTarget name="Fire" size="524.000000 524.000000" />
+  </Tracking>
+</QCARConfig>
